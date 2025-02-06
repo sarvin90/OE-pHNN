@@ -8,8 +8,8 @@ To run the code in this repository, you need to install the DeepSI toolbox. Plea
 
 ## Repository Structure
 
-- ``: This Jupyter Notebook contains the code for simulating a two-connected spring-mass-damper (2MSD) system.
-- ``: This Jupyter Notebook presents the results of the model applied to the Cascaded Tanks benchmark introduced in [Nonlinear Benchmark](https://www.nonlinearbenchmark.org/benchmarks/cascaded-tanks).
+- `2MSD.ipynb`: This Jupyter Notebook contains the code for simulating a two-connected spring-mass-damper (2MSD) system.
+- `Cascaded_tanks.ipynb`: This Jupyter Notebook presents the results of the model applied to the Cascaded Tanks benchmark introduced in [Nonlinear Benchmark](https://www.nonlinearbenchmark.org/benchmarks/cascaded-tanks).
 - ``: This folder contains trained model files for different configurations, including:
   - Various training sizes
   - Different truncation lengths
